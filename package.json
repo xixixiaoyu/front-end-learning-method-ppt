@@ -2,7 +2,7 @@
   "name": "study",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /front-end-learning-method-ppt/",
+    "build": "slidev build --base ./",
     "dev": "slidev --open",
     "export": "slidev export"
   },
