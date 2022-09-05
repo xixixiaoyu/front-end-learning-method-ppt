@@ -42,7 +42,7 @@ li:nth-of-type(1) {
 }
 li {
   font-size: 24px;
-  line-height: 90px !important;
+  line-height: 100px !important;
 }
 </style>
 
@@ -210,20 +210,13 @@ window.addEventListener("scroll", throttleTask);
 
 ---
 
-<style>
-li:nth-of-type(1) {
-  margin-top: 10px;
-}
-li:nth-of-type(3) {
-  line-height: 60px !important;
-}
-</style>
+
 
 # 例子
 
-- 所有函数都是 Function new出来的
-- Function 是一个函数
-- Function 是 Function new出来的
+- <p style="margin-top: -10px;">所有函数都是 Function new出来的</p>
+- <p style="margin-top: -10px;">Function 是一个函数</p>
+- <p style="margin-top: -10px;">Function 是 Function new出来的</p>
 <img src="//tvax3.sinaimg.cn/large/007c1Ltfgy1h5uxdxhvqzj30fy02l74v.jpg" style="border-radius: 10px; " />
 <img src="//tva3.sinaimg.cn/large/007c1Ltfgy1h5uy791bvnj30jy02et9i.jpg" style="border-radius: 10px; margin-top: 10px"/>
 
@@ -231,9 +224,9 @@ li:nth-of-type(3) {
 
 # 例子
 
-- 所有函数都是 Function new出来的
-- Object是一个函数
-- Object 也是由 Function 构造出来的
+- <p style="margin-top: -10px;">所有函数都是 Function new出来的</p>
+- <p style="margin-top: -10px;">Object是一个函数</p>
+- <p style="margin-top: -10px;">Object 也是由 Function 构造出来的</p>
 
 <img src="//tva2.sinaimg.cn/large/007c1Ltfgy1h5uygsbsldj30is05b0u4.jpg" style="border-radius: 10px; "/>
 
