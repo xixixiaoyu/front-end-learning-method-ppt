@@ -3,7 +3,7 @@
 theme: Seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: //tva1.sinaimg.cn/large/007c1Ltfgy1h0plytaly5j32yo1o0tj6.jpg
+background: "//tva1.sinaimg.cn/large/007c1Ltfgy1h0plytaly5j32yo1o0tj6.jpg"
 # apply any windi css classes to the current slide
 class: "text-center"
 # https://sli.dev/custom/highlighters.html
