@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "/front-end-learning-method-ppt/",
-  };
+  publicPath: "/front-end-learning-method-ppt/",
+};
