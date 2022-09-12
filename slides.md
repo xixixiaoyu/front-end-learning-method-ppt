@@ -255,4 +255,4 @@ console.log(Object instanceof Object); // true
 
 ---
 
-<img src="//tvax1.sinaimg.cn/large/007c1Ltfgy1h5uztkmvcej30sk0sljy0.jpg" style="border-radius: 10px; margin-bottom: 30px; width: 100%; height: 100%"/>
+<img src="//tva2.sinaimg.cn/mw690/007c1Ltfgy1h63y6twguej30pv0y3n2x.jpg" style="border-radius: 10px; height: 100%"/>
